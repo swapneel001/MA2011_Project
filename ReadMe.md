@@ -1,0 +1,1 @@
+This is group 21's code for the CA for MA2011. There are two python files, one to read audio and create a .wav file, and the other to process it. The prerequisite python libraries for the codes are SpeechRecognition, scripy, numpy, matplotlib, scipy.io.wavfile.
